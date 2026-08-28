@@ -1,7 +1,7 @@
 {
   "version": 2,
   "updatedAt": "2026-08-28",
-  "totalCount": 59,
+  "totalCount": 58,
   "channels": [
     {
       "id": "ym",
@@ -132,18 +132,10 @@
       "reason": "정상 운영 (HTTP 200 OK)"
     },
     {
-      "id": "ms",
-      "name": "MS레이블 저장소",
-      "handle": "@MS%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 17,
-      "avatarUrl": "https://yt3.googleusercontent.com/rhHtNCuhg7ymYubp8PE5CY7kFzLpyZuqe4cPOs_QatrXHtBEIsw2VuxhXQqP4al96zfbGM1pKEg=s900-c-k-c0x00ffffff-no-rj",
-      "reason": "정상 운영 (HTTP 200 OK)"
-    },
-    {
       "id": "channel_18",
       "name": "임페리얼레이블",
       "handle": "@%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 18,
+      "order": 17,
       "avatarUrl": "https://yt3.googleusercontent.com/5H_ApOcxgOWQCiJ2z-Re6bNb06nyyXdmTQLAkJlgI2-JcJaYoJxI3pCFrwwWuvLS7YN5Nfxe=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -151,7 +143,7 @@
       "id": "-x2o",
       "name": "강남레이블",
       "handle": "@%EA%B0%95%EB%82%A8%EB%A0%88%EC%9D%B4%EB%B8%94-x2o",
-      "order": 19,
+      "order": 18,
       "avatarUrl": "https://yt3.googleusercontent.com/wXEZc7z7RvF4YVc5cmtI0Y3lwoLobbUVTflah9qtcYnaX7_EFetgdzMoPNO9YTqDExW3o-ks=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -159,7 +151,7 @@
       "id": "-l5f",
       "name": "재호이",
       "handle": "@%EC%9E%AC%ED%98%B8%EC%9D%B4-l5f",
-      "order": 20,
+      "order": 19,
       "avatarUrl": "https://yt3.googleusercontent.com/w7l-lGCj2ad18Wdv9ogPOdZn-Qx5qsbHZrhUpjTw1zEpqUzz4cvPeN7R67V_45v6ZrgM6KaL=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -167,7 +159,7 @@
       "id": "channel_21",
       "name": "청담레이블 화 목 토 MC청아",
       "handle": "@%EC%B2%AD%EB%8B%B4%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 21,
+      "order": 20,
       "avatarUrl": "https://yt3.googleusercontent.com/Gtkw1Mr98tmqOuhCknbfixcNq8sEGHNC6rMYnqE6qiNITJOmcopSlGlu2f0njut6wZxaiaIbv6g=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -175,7 +167,7 @@
       "id": "chaschool",
       "name": "차스쿨",
       "handle": "@chaschool",
-      "order": 22,
+      "order": 21,
       "avatarUrl": "https://yt3.googleusercontent.com/KI7qBYPL2Q2BimpQmSQCypFyR0FskyRAJ3-Usv9uIbvfUxYtg7gNd8CRxK4RuJVfjc02fCKC=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -183,7 +175,7 @@
       "id": "channel_23",
       "name": "배짱이컴퍼니 라온레이블",
       "handle": "@%EB%B0%B0%EC%A7%B1%EC%9D%B4%EC%BB%B4%ED%8D%BC%EB%8B%88",
-      "order": 23,
+      "order": 22,
       "avatarUrl": "https://yt3.googleusercontent.com/gLFLWT4prTk3X37hEgw26tbdSiNlo-sxD45q_E75sMZcQY6f8_OD-15kI3ATg4g-1dW5LQTqFw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -191,7 +183,7 @@
       "id": "channel_24",
       "name": "하이킹즈",
       "handle": "@%ED%95%98%EC%9D%B4%ED%82%B9%EC%A6%88",
-      "order": 24,
+      "order": 23,
       "avatarUrl": "https://yt3.googleusercontent.com/2wgu2xyMUHkgEGQ8xwHgcegGWunPFeR4smkoXBJlxBKnvFf8A66g5H0TjhX67ZaRnq43rt9clw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -199,7 +191,7 @@
       "id": "channel_25",
       "name": "스타덤레이블",
       "handle": "@%EC%8A%A4%ED%83%80%EB%8D%A4%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 25,
+      "order": 24,
       "avatarUrl": "https://yt3.googleusercontent.com/EQumtdX9gfemVZyfKyyYweNC0Ep-PoU-yPs3BoNc49KJI_JyRqIfrcRFrUJeZp_xLvGSovuH=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -207,7 +199,7 @@
       "id": "channel_26",
       "name": "연엔터테인먼트 공식채널",
       "handle": "@%EC%97%B0%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
-      "order": 26,
+      "order": 25,
       "avatarUrl": "https://yt3.googleusercontent.com/tMMpbhUHC1H-37eG46K8Txo1E05Pi37D9gqNc9hTZbcYDsPprkPf2l5Ucze5GlegEiR_-voN0A=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -215,7 +207,7 @@
       "id": "channel_27",
       "name": "퍼스트클래스(화,목,토)",
       "handle": "@%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A41",
-      "order": 27,
+      "order": 26,
       "avatarUrl": "https://yt3.googleusercontent.com/7eBwAd7Zn-ecot7XHi8MkD-xjLFftPUVqHZ6t8YTHb3Nqo3QM1aKGAx3N62RsYNgoAkVjTLNQQ=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -223,7 +215,7 @@
       "id": "channel_28",
       "name": "스파르타 레이블",
       "handle": "@%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 28,
+      "order": 27,
       "avatarUrl": "https://yt3.googleusercontent.com/jSs93vR_RmL_iYQRQSeylW7VuTDP8PkzyCS49zxrOR2bD8T5PAT1E7JPLjJwlxb_fNj-CLsvtCU=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -231,7 +223,7 @@
       "id": "gil",
       "name": "길레이블-이길승",
       "handle": "@GIL%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 29,
+      "order": 28,
       "avatarUrl": "https://yt3.googleusercontent.com/Rs8-4G9YOgb0JF35Y2Vyz9MaPESw87sWn1mJAfeSElktneuJ6etMwH9M1i_hRWoPMsvedcBT1X0=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -239,7 +231,7 @@
       "id": "channel_30",
       "name": "보스컴퍼니",
       "handle": "@%EB%B3%B4%EC%8A%A4%EC%BB%B4%ED%8D%BC%EB%8B%88",
-      "order": 30,
+      "order": 29,
       "avatarUrl": "https://yt3.googleusercontent.com/XBRWsB4pxnZacQ9vOwT6E8_LnnytV893yAWIrykHza2sjHq_CTAJ0oEE8f7mr85E64ErGewA=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -247,7 +239,7 @@
       "id": "channel_31",
       "name": "미라클레이블",
       "handle": "@%EB%AF%B8%EB%9D%BC%ED%81%B4%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 31,
+      "order": 30,
       "avatarUrl": "https://yt3.googleusercontent.com/ncHJyj6Z32U4GdZVbMfiq2k7nTbhT0WkLGDlv9O9N9oY8KwkaBN_EMPU3nfEr-zjdgvGRxFq1w=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -255,7 +247,7 @@
       "id": "2_hayufeel2",
       "name": "하유필라이브_HAYUFEELLIVE",
       "handle": "@%ED%95%98%EC%9C%A0%ED%95%842_HAYUFEEL2",
-      "order": 32,
+      "order": 31,
       "avatarUrl": "https://yt3.googleusercontent.com/YQaoqV7fEMZ44Fef5Wnvn-LJD0NECHjaWhzRyekrjM1q-FT-PmphQkkT2oFpSxoNrBdFMuVzgDs=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -263,7 +255,7 @@
       "id": "kstylecrew",
       "name": "스타일크루 STYLE CREW",
       "handle": "@kstylecrew",
-      "order": 33,
+      "order": 32,
       "avatarUrl": "https://yt3.googleusercontent.com/FSyo0YCZ4cxNebene3OCg-ydURYT7Y8nngdbusn9mKyhW1d-d-CEEYoxxz0x4hIWw2ZoWeI0=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -271,7 +263,7 @@
       "id": "yj_",
       "name": "YJ엔터테인먼트",
       "handle": "@YJ_%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8",
-      "order": 34,
+      "order": 33,
       "avatarUrl": "https://yt3.googleusercontent.com/yXGYbH7p0BtW4joOZne4RWKu-VOurUhF3rmyKG3VFIHJjb13wvAdXgWuWDCttSJpS_hP6383vg=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -279,7 +271,7 @@
       "id": "channel_35",
       "name": "제니스 레이블",
       "handle": "@%EC%A0%9C%EB%8B%88%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 35,
+      "order": 34,
       "avatarUrl": "https://yt3.googleusercontent.com/kqMAmFB_ulrD8vYRYGmPr-GI7l-sSUoUYQvMqqXDgdh8TiLBYhIjSpWDdUKrHjnkQuvGNo3O=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -287,7 +279,7 @@
       "id": "ucfhmjg7de6timzj1-mjwytw",
       "name": "[WG] 우기상사",
       "handle": "UCFhMjG7DE6tImzj1-mJwytw",
-      "order": 36,
+      "order": 35,
       "avatarUrl": "https://yt3.googleusercontent.com/RBg-56hwWnsA3pyUXl_wd2RwzvjhGIiNFOD3oQVpMGoHRWbSk50-ihmIc1lQ0R_M5Kgwz38pAbM=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -295,7 +287,7 @@
       "id": "-q6n",
       "name": "[GE엔터] 갓정은",
       "handle": "@%EA%B0%93%EC%A0%95%EC%9D%80-q6n",
-      "order": 37,
+      "order": 36,
       "avatarUrl": "https://yt3.googleusercontent.com/DjJIv2leY649Z3onZQBA8XYxfiaKwI60_2pbmSj7bnrvyW557VU-j1ibJmnoql6AozD4McSn=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -303,7 +295,7 @@
       "id": "channel_39",
       "name": "엔젤컴퍼니",
       "handle": "@%EC%98%88%EC%A7%80%EB%9E%91_%EC%97%94%EC%A0%A4%EC%BB%B4%ED%8D%BC%EB%8B%88",
-      "order": 38,
+      "order": 37,
       "avatarUrl": "https://yt3.googleusercontent.com/dT2OrhfYHT2kbsXMjweh4B4Hf_rkzWnrnX0c-mzWinTjgBdpSN-XprWhMhUQPBz4__tIYF2pjg=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -311,7 +303,7 @@
       "id": "channel_41",
       "name": "네온레이블",
       "handle": "@%EB%84%A4%EC%98%A8%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 39,
+      "order": 38,
       "avatarUrl": "https://yt3.googleusercontent.com/ECcBryJGURkdBPaEo5rXE5aPNHK-HWBGo374FuWiDkMnMhq5vAozeiWAdvRIeuOc98XRAwUh=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -319,7 +311,7 @@
       "id": "channel_42",
       "name": "하이퀸즈",
       "handle": "@%ED%95%98%EC%9D%B4%ED%80%B8%EC%A6%88",
-      "order": 40,
+      "order": 39,
       "avatarUrl": "https://yt3.googleusercontent.com/rYovQjeafu07guzfqUQApVZH_7gbuDXmP6wQMot7_UFic1xWYQ_XR7Ur-lkceobbpjJiY7E4=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -327,7 +319,7 @@
       "id": "goldenofficial_kr",
       "name": "골든오피셜 GOLDEN",
       "handle": "@GOLDENOfficial_KR",
-      "order": 41,
+      "order": 40,
       "avatarUrl": "https://yt3.googleusercontent.com/3QT2bQd4TxH7yIkLpQbL-I2aD0BfIGfq1CbnpzGpNjh_ZGwHJFBsCK2Wvdof_FOGqU_SCEJfew=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -335,7 +327,7 @@
       "id": "channel_44",
       "name": "뀨플릭스",
       "handle": "@%EB%80%A8%ED%94%8C%EB%A6%AD%EC%8A%A4",
-      "order": 42,
+      "order": 41,
       "avatarUrl": "https://yt3.googleusercontent.com/l_MnP9lPj_Wf1uUx1Y5puv7uNZEf3gzF2wPGsBk-DDjtSLTwPzT0Ey4T--8_4Z0IWt5tGlERZQ=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -343,7 +335,7 @@
       "id": "ninex_",
       "name": "nineX_구리[사장]",
       "handle": "@nineX_%EA%B5%AC%EC%82%AC%EC%9E%A5",
-      "order": 43,
+      "order": 42,
       "avatarUrl": "https://yt3.googleusercontent.com/a-nXlgBE83jrtgYkdsREIThNEdCs8n_AMjSfMLGDQ273HGrZN7sLHVe9Hqmtky_CeDQYVolA=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -351,7 +343,7 @@
       "id": "channel_46",
       "name": "노바레이블",
       "handle": "@%EB%85%B8%EB%B0%94%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 44,
+      "order": 43,
       "avatarUrl": "https://yt3.googleusercontent.com/GALWY54ZsGWVqtsfBZwgFVpi7RMVEhnN65b2j1Q-k3KTtmtc3P9VuazO4hsKXmmUe46dh_f_Qyg=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -359,7 +351,7 @@
       "id": "thewolf-j5d",
       "name": "더울프",
       "handle": "@thewolf-j5d",
-      "order": 45,
+      "order": 44,
       "avatarUrl": "https://yt3.googleusercontent.com/oBg4Jr8JYFI5Xw9qpRpefQKOiPsdelak9fibb-h2C7SBLswDX7Sr-aTMCe7JbTq-TQSIo-ffdg=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -367,7 +359,7 @@
       "id": "thekinglabel",
       "name": "더킹레이블 THE KING",
       "handle": "@thekinglabel",
-      "order": 46,
+      "order": 45,
       "avatarUrl": "https://yt3.googleusercontent.com/aogn6isa0YtMv5X8HUsc2zNyPjZmvprxxT5jiXaOtY3Rvs4tlx7-oyZLhfWH-U4EUGzI7k-6=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -375,7 +367,7 @@
       "id": "channel_49",
       "name": "드래곤엔터",
       "handle": "@%EB%93%9C%EB%9E%98%EA%B3%A4%EC%97%94%ED%84%B02",
-      "order": 47,
+      "order": 46,
       "avatarUrl": "https://yt3.googleusercontent.com/N3hVT-DXSmk4xGNSuhA84Wt5yitTRYYRkDNzIBZwwZHzRrWTGFBM_MvuFalJTPtLVEMhkUup=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -383,7 +375,7 @@
       "id": "-dc",
       "name": "드림컴퍼니",
       "handle": "@%EB%93%9C%EB%A6%BC%EC%BB%B4%ED%8D%BC%EB%8B%88-dc",
-      "order": 48,
+      "order": 47,
       "avatarUrl": "https://yt3.googleusercontent.com/kDTmZPhXRFKc-OaaMqT_1tJThPtvuJhIbLiPrTED40Q9ib40jM9czra7NokhEHvhKMa4bLhVYrY=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -391,7 +383,7 @@
       "id": "channel_51",
       "name": "루비레이블",
       "handle": "@%EB%A3%A8%EB%B9%84%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 49,
+      "order": 48,
       "avatarUrl": "https://yt3.googleusercontent.com/zJvjND7NKLK4niiZrUrANRdtJNGEB2QxykmYC0Z-_yZuSgTUC1CYO2X8A4GrxfLeEw6fYnH66rE=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -399,7 +391,7 @@
       "id": "channel_53",
       "name": "맨투맨레이블.",
       "handle": "@%EB%A7%A8%ED%88%AC%EB%A7%A8%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 50,
+      "order": 49,
       "avatarUrl": "https://yt3.googleusercontent.com/tFqxJ-rWkZ_G1zAb4W9N9IGA7EzhemDffCA7mGzGp9B2X9nBQDF0s54N9k7EJR1htt8h-tZkUQ=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -407,7 +399,7 @@
       "id": "channel_54",
       "name": "원픽이엔티 ONEPICKent",
       "handle": "@%EC%9B%90%ED%94%BD%EC%9D%B4%EC%97%94%ED%8B%B0",
-      "order": 51,
+      "order": 50,
       "avatarUrl": "https://yt3.googleusercontent.com/mZcU-JsDjM1B9SxfZ3NJ08W6i92eFE9UrdqJOOVv-usc3zmUz4bVnejqQuDokdUEo_8QSOwn9g=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -415,7 +407,7 @@
       "id": "-x1b",
       "name": "유니버스 레이블",
       "handle": "@%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94-x1b",
-      "order": 52,
+      "order": 51,
       "avatarUrl": "https://yt3.googleusercontent.com/hLZwCEmEmleNysAEse6iqeQVdGhcdiIDW2Sdf55BXrq_vfLiEns81A3nlOpb4F_K-ln7HTb2Gw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -423,7 +415,7 @@
       "id": "-n6c",
       "name": "유니버스 레이블 화목토",
       "handle": "@%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94-n6c",
-      "order": 53,
+      "order": 52,
       "avatarUrl": "https://yt3.googleusercontent.com/LEzDP-NZIk6VqTxaqM9wAS6EVphCDdg8vLHATJcALBJb6n9Sks1O6LuNPI54twe3jk-dB_QuRQ=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -431,7 +423,7 @@
       "id": "channel_57",
       "name": "전주영웅",
       "handle": "@%EC%A0%84%EC%A3%BC%EC%98%81%EC%9B%85",
-      "order": 54,
+      "order": 53,
       "avatarUrl": "https://yt3.googleusercontent.com/bhaiRIVfQcRPXxpSCKMEIkVay0da8-vrGKWgFzkURpB01SJmlrwSVDlv6HesXMCvES86ztHKrw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -439,7 +431,7 @@
       "id": "channel_58",
       "name": "퀸즈 레이블",
       "handle": "@%ED%80%B8%EC%A6%88%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 55,
+      "order": 54,
       "avatarUrl": "https://yt3.googleusercontent.com/UBWB4DUEI_uCa-H0e9CDQPWxtEscV9dvpr2rpWu6NFIR8d4kIwZzcTVj9urRM9hOYgn-kpjvkBc=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -447,7 +439,7 @@
       "id": "channel_59",
       "name": "킹스맨레이블",
       "handle": "@%ED%82%B9%EC%8A%A4%EB%A7%A8%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 56,
+      "order": 55,
       "avatarUrl": "https://yt3.googleusercontent.com/7Vo33t2s9kfYMJwiwsrhEQEo_3DyAlrTothbrapDMdonwFEXtg3x8RDAk58gYgR3dMsF6ioG0g=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -455,7 +447,7 @@
       "id": "hm_enter",
       "name": "HM상사",
       "handle": "@HM_Enter",
-      "order": 57,
+      "order": 56,
       "avatarUrl": "https://yt3.googleusercontent.com/vq65VWDbLYga4kFQmgseUqrnrEj0pd51YgkhvwvSLvHzRYy4lqaDKWzWav_m9hKSmqS3K_jA=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -463,7 +455,7 @@
       "id": "ms-z4l",
       "name": "MS레이블",
       "handle": "@ms%EB%A0%88%EC%9D%B4%EB%B8%94-z4l",
-      "order": 58,
+      "order": 57,
       "avatarUrl": "https://yt3.googleusercontent.com/f5tUfa15dKIoj2QMRDXVAaehOnZcF5wb-bTtcYSOhcgfD2fF6xv4-7x2PIOxbKBbQwzhQsv9Aw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
@@ -471,7 +463,7 @@
       "id": "nyang_official",
       "name": "냥레이블",
       "handle": "@%EB%83%A5%EB%A0%88%EC%9D%B4%EB%B8%94Official",
-      "order": 59,
+      "order": 58,
       "avatarUrl": "https://yt3.googleusercontent.com/ZnPuXnNH3E6scNR_ePOI_fpRQnnadn8MPrDWX1bq7vD1KV-bqMW4qwGp2iJKWRpJnULdcDCEdw=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     }
