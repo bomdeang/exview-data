@@ -1,7 +1,7 @@
 {
   "version": 2,
   "updatedAt": "2026-08-28",
-  "totalCount": 58,
+  "totalCount": 68,
   "channels": [
     {
       "id": "ym",
@@ -465,6 +465,86 @@
       "handle": "@%EB%83%A5%EB%A0%88%EC%9D%B4%EB%B8%94Official",
       "order": 58,
       "avatarUrl": "https://yt3.googleusercontent.com/ZnPuXnNH3E6scNR_ePOI_fpRQnnadn8MPrDWX1bq7vD1KV-bqMW4qwGp2iJKWRpJnULdcDCEdw=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "628",
+      "name": "YS컴퍼니",
+      "handle": "@%EC%99%80%EC%9D%B4%ED%8D%BC628",
+      "order": 59,
+      "avatarUrl": "https://yt3.googleusercontent.com/P8MIMdRUYh6WQfzWAzQSBVlj7Dpj3IpyJ4xDf5qfQzX0WTFImG33HLlUrgelz9rmCvnbuNIIdQ=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_60",
+      "name": "킹스맨레이블 대표 김인환TV",
+      "handle": "@%ED%82%B9%EC%8A%A4%EB%A7%A8%EB%8C%80%ED%91%9C%EA%B9%80%EC%9D%B8%ED%99%98",
+      "order": 60,
+      "avatarUrl": "https://yt3.googleusercontent.com/Rd1R_qRegzIU8dOyCrWbEMSR0grVMKgh-C5t4GV8jj6rCNIJX2gF_yVU3pz-4x0UdXvm07-7=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_61",
+      "name": "위너컴퍼니W",
+      "handle": "@%EC%9C%84%EB%84%88%EC%BB%B4%ED%8D%BC%EB%8B%88W",
+      "order": 61,
+      "avatarUrl": "https://yt3.googleusercontent.com/1oZfOFTnUPHwYlwk-5A89Y7xr3tMq08U41yirqi5sQTgcctl7G0qc4Pgy9OaESjXOUq1egoB7yg=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_62",
+      "name": "유니버스레이블 방승연🩷",
+      "handle": "@%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4_%EB%B0%A9%EC%8A%B9%EC%97%B0",
+      "order": 62,
+      "avatarUrl": "https://yt3.googleusercontent.com/NLjSVnsk8qDyJzIEOuYUhYr3LQ8sxdu_VtOuzTx5s-K2phUSbStCxw15smyI5zaxXjcqI3K8Zg=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "_official",
+      "name": "엑스엘컴퍼니",
+      "handle": "@%EC%97%91%EC%8A%A4%EC%97%98%EC%BB%B4%ED%8D%BC%EB%8B%88_Official",
+      "order": 63,
+      "avatarUrl": "https://yt3.googleusercontent.com/bCwtirJp2rLgvOdfCdKvc44I_lbKLghhCvSKDBH2noR14v2ePhvpy0zdeXY_BkhT2gK1JPMo9Zs=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_64",
+      "name": "Gold Label 골드레이블",
+      "handle": "@%EA%B3%A8%EB%93%9C%EB%A0%88%EC%9D%B4%EB%B8%94",
+      "order": 64,
+      "avatarUrl": "https://yt3.googleusercontent.com/RfUM5gC-rfjqQYNddWY3FgHW3JHCDdnIM2MbfGsFCZ0zqOx1D7S91NVfYTKi8DDxWbb7i6nK=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_65",
+      "name": "스파르타 레이블 브이",
+      "handle": "@%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EB%B8%8C%EC%9D%B4",
+      "order": 65,
+      "avatarUrl": "https://yt3.googleusercontent.com/9kvXGDmd_VJJCqjc7LxEQvY7pMJ281B-8CN8ftE67VenxG3JWg5FdY_Eet3A4Tq6WGMZAuC_FQ=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_66",
+      "name": "데스레이블_서도환 대표",
+      "handle": "@%EB%8D%B0%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94_%EC%84%9C%EB%8F%84%ED%99%98",
+      "order": 66,
+      "avatarUrl": "https://yt3.googleusercontent.com/guezPjfM6ih7W2f9cwLhh4Bdze30pOrhGYdFtfjhq8G3TwbJNHLFSDugwtIsqyG8iNpbaZsWvj4=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_67",
+      "name": "스타덤레이블",
+      "handle": "@%EC%8A%A4%ED%83%80%EB%8D%A4%EB%A0%88%EC%9D%B4%EB%B8%94%EC%9B%94%EC%88%98%EA%B8%88",
+      "order": 67,
+      "avatarUrl": "https://yt3.googleusercontent.com/-gOOtO7CLPkGQd5sSFlR1EoJTIQS5iNkQStLHX-oBEL2LOPyBdrQhTXXu9aR38H30qQOH14AAWw=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_68",
+      "name": "더맨즈레이블",
+      "handle": "@%EB%8D%94%EB%A7%A8%EC%A6%88%EB%A0%88%EC%9D%B4%EB%B8%94",
+      "order": 68,
+      "avatarUrl": "https://yt3.googleusercontent.com/6XDLB5JUWRaYvf8SHvS9DPLsFEM-f2-OAeNCm1Xx7pCql42uMpOUmVfdBvoTzLWe8Y86ailO=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     }
   ]
