@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-28",
-  "totalCount": 68,
+  "updatedAt": "2026-08-29",
+  "totalCount": 75,
   "channels": [
     {
       "id": "ym",
@@ -545,6 +545,62 @@
       "handle": "@%EB%8D%94%EB%A7%A8%EC%A6%88%EB%A0%88%EC%9D%B4%EB%B8%94",
       "order": 68,
       "avatarUrl": "https://yt3.googleusercontent.com/6XDLB5JUWRaYvf8SHvS9DPLsFEM-f2-OAeNCm1Xx7pCql42uMpOUmVfdBvoTzLWe8Y86ailO=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_69",
+      "name": "리치레이블",
+      "handle": "@%EB%A6%AC%EC%B9%98%EB%A0%88%EC%9D%B4%EB%B8%941",
+      "order": 69,
+      "avatarUrl": "https://yt3.googleusercontent.com/AYIBHEJjVWZdqF4mmUbFtg5AsjBBSiV4zUH3K5zCBRtr71nJzl7CCyymloIG2AsCg15AI-U1Yg=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "hongent_avenuehvoice",
+      "name": "홍엔터에비뉴H보이스",
+      "handle": "@HongEnt_AvenueHvoice",
+      "order": 70,
+      "avatarUrl": "https://yt3.googleusercontent.com/8z0AWJ0zBbxt8N5fxmqCui70_kZ3UymKyRup8KII95OlXtTSgCHBCQ_pWiqaQEUXT06cPqJdtwM=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_71",
+      "name": "라인업컴퍼니 월수토",
+      "handle": "@%EB%9D%BC%EC%9D%B8%EC%97%85%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%9B%94%EC%88%98%ED%86%A0",
+      "order": 71,
+      "avatarUrl": "https://yt3.googleusercontent.com/Wh_pGUUjIK9mCYGp1kgwnGpmYoNsoz6jAmGuCFWEWkNyYUbj0RSsPIbHvp3bVDT58GcXfRNNvw=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_72",
+      "name": "더맨즈레이블M",
+      "handle": "@%EB%8D%94%EB%A7%A8%EC%A6%88%EB%A0%88%EC%9D%B4%EB%B8%94M",
+      "order": 72,
+      "avatarUrl": "https://yt3.googleusercontent.com/lek5jYtXYbaps9aWQqb1-n4xESqVCAjMjgaXKi65fiKBfkygAqQmiufmlAG4VwmBa-Z_bL78UA=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "-g3c",
+      "name": "이클립스레이블",
+      "handle": "@%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94-g3c",
+      "order": 73,
+      "avatarUrl": "https://yt3.googleusercontent.com/2-BFPlptIWlJjdTAJ-rrs4pmdgQr8Txg0O3ObZlNhb5DseElBxwI0laiCiqclbDQfam7_4lgWMo=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_74",
+      "name": "플레이스쿨-PlaySchool",
+      "handle": "@%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%BF%A8",
+      "order": 74,
+      "avatarUrl": "https://yt3.googleusercontent.com/_YV2wpvDpyJk7gYLBbzAqb8aY7VIacySvDlrlslvzTOQWN20KRYmVghIp_ILA5DMf4bdhFxaTw=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_75",
+      "name": "젠틀맨 사관학교 대표 송우주",
+      "handle": "@%EC%A0%A0%ED%8B%80%EB%A7%A8%EB%8C%80%ED%91%9C%EC%86%A1%EC%9A%B0%EC%A3%BC",
+      "order": 75,
+      "avatarUrl": "https://yt3.googleusercontent.com/SmFk3gBWR0PQKCV0RbvOvoaol4TjALj8JZGzOdIvInu52VUd1AmmxpvAi5FMD6DX8-gSvEzC=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     }
   ]
