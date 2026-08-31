@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-29",
-  "totalCount": 75,
+  "updatedAt": "2026-08-31",
+  "totalCount": 78,
   "channels": [
     {
       "id": "ym",
@@ -601,6 +601,30 @@
       "handle": "@%EC%A0%A0%ED%8B%80%EB%A7%A8%EB%8C%80%ED%91%9C%EC%86%A1%EC%9A%B0%EC%A3%BC",
       "order": 75,
       "avatarUrl": "https://yt3.googleusercontent.com/SmFk3gBWR0PQKCV0RbvOvoaol4TjALj8JZGzOdIvInu52VUd1AmmxpvAi5FMD6DX8-gSvEzC=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_76",
+      "name": "신세계레이블",
+      "handle": "@%EC%8B%A0%EC%84%B8%EA%B3%84%EB%A0%88%EC%9D%B4%EB%B8%94",
+      "order": 76,
+      "avatarUrl": "https://yt3.googleusercontent.com/EC-3CxoRWI5KKi47Iu9kle557zQsxt5GZImz8TeCU0PuMZwrLFyIYKj9wrVxC3DtjEspFCe0=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "channel_77",
+      "name": "스파르타&유니버스레이블 대표 채현준",
+      "handle": "@%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4%EB%8C%80%ED%91%9C_%EC%B1%84%ED%98%84%EC%A4%80",
+      "order": 77,
+      "avatarUrl": "https://yt3.googleusercontent.com/r9A0OoJbEEehoIQb6BJQSMgObikNsTRZT3LGvdyyqVLwl-dX7UAtoFkbMk2jAzfqnn66rQPDlg=s900-c-k-c0x00ffffff-no-rj",
+      "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "kpofficial",
+      "name": "KP컴퍼니",
+      "handle": "@KP%EC%BB%B4%ED%8D%BC%EB%8B%88Official",
+      "order": 78,
+      "avatarUrl": "https://yt3.googleusercontent.com/m9IvNnTGarvaEMc0M-Atj8yp8bERGxj5ZIxjWHrlS21ry1w_YGeYvAhlIC5l4bNDb-pg9XuF=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     }
   ]
