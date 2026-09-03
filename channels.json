@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-08-31",
-  "totalCount": 78,
+  "updatedAt": "2026-09-03",
+  "totalCount": 83,
   "channels": [
     {
       "id": "ym",
@@ -626,6 +626,41 @@
       "order": 78,
       "avatarUrl": "https://yt3.googleusercontent.com/m9IvNnTGarvaEMc0M-Atj8yp8bERGxj5ZIxjWHrlS21ry1w_YGeYvAhlIC5l4bNDb-pg9XuF=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
+    },
+    {
+      "id": "ascendproject",
+      "name": "어센드 민후",
+      "handle": "@ascendproject-0730",
+      "order": 79,
+      "avatarUrl": "https://yt3.googleusercontent.com/5qmAOdRjYM0_llFudPUA3I3Ns3m-lRIGdxIvQ3JeQoISi6bfTEBnSl1FA92UyPZ0-q-qypp-K7k=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "bluelabelclub",
+      "name": "블루라벨_클럽",
+      "handle": "@%EB%B8%94%EB%A3%A8%EB%9D%BC%EB%B2%A8_%ED%81%B4%EB%9F%BDCLUB",
+      "order": 80,
+      "avatarUrl": "https://yt3.googleusercontent.com/UdEypHKPxXFTgEpre_yfAWQBIT-a5fdTE-992kqiFcVtjLP29M6KGszuY2MSPPROeQWbVYUP=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "kcrew",
+      "name": "케이크루 (본계정)",
+      "handle": "@kcrew-c6r",
+      "order": 81,
+      "avatarUrl": "https://yt3.googleusercontent.com/nuNKpx_rKhxvbyemAm8lZQS7G6R75G5EDJLFALK4v4ttEkNHch8CSIr4emYMANclQi73BThO=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "avengerslabel",
+      "name": "어벤져스 레이블",
+      "handle": "@%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94z",
+      "order": 82,
+      "avatarUrl": "https://yt3.googleusercontent.com/ztwTOKGtJqbAfgU6hzHfSlNCld8JQfpvn0mc9uFzX2279rul5ztXbdg2pgpZ92KPyF4BLc7kiw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "iroi",
+      "name": "이로이",
+      "handle": "@%EC%9D%B4%EB%A1%9C%EC%9D%B4",
+      "order": 83,
+      "avatarUrl": "https://yt3.googleusercontent.com/hOGtgrIKQ8r1WDNXEodzCG2OxZh5Xuitl6rMdqLGS_Hr_vKJGmTsn-qk5cTGkrlbJy28K1bM0UI=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
