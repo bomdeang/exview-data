@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-08",
-  "totalCount": 89,
+  "updatedAt": "2026-09-09",
+  "totalCount": 96,
   "channels": [
     {
       "id": "ym",
@@ -703,6 +703,55 @@
       "handle": "@%EC%95%84%EC%9C%A898",
       "order": 89,
       "avatarUrl": "https://yt3.googleusercontent.com/gmyAWCIE6xyIVhnrch6aawcnrtib4gnbiNq4ZHriE1m4WtyClDsVBfsp-J2wwZTk_x3N42ef=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "xlabel",
+      "name": "엑스레이블_엣지대표",
+      "handle": "@%EC%97%A3%EC%A7%80%EB%8C%80%ED%91%9C",
+      "order": 90,
+      "avatarUrl": "https://yt3.googleusercontent.com/YIZHbo3hlj-a0vkAyLWMWz1QXY6usjYBpzNfbQU8QS5_wx6fEJLyMKVIhur9K7xrecc88uLNSAc=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "royal",
+      "name": "로얄클래스(월,수,금)",
+      "handle": "@%EB%A1%9C%EC%96%84%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9B%94%EC%88%98%EA%B8%881",
+      "order": 91,
+      "avatarUrl": "https://yt3.googleusercontent.com/36_IdttCRYZRFvnPlvF5SKlMHhL3UPvNORfq0OIBhCoD-eEL3teznEWWWye8YBUuEhPQSFCRw48=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "dojun",
+      "name": "김도준",
+      "handle": "@D.O%EA%B9%80%EB%8F%84%EC%A4%80",
+      "order": 92,
+      "avatarUrl": "https://yt3.googleusercontent.com/3O91x8eWPi28LHIxZQxGQK40XbKRTajzHc3QmPAjoqQntdBe0PiytA52R_aHVhzcOX_hr8jxwQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "theleague",
+      "name": "더 리그 레이블",
+      "handle": "@%EB%8D%94%EB%A6%AC%EA%B7%B8_TheLEAGUE",
+      "order": 93,
+      "avatarUrl": "https://yt3.googleusercontent.com/0_JVsYj3B_bjDtdcb5YC5HdGZM8qMAC09jn9wJ_grQ1idV79DeuWokU10N33xn8bbPew-2x-rg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "universeceo",
+      "name": "유니버스 레이블 대표 류도현",
+      "handle": "@%EC%9C%A0%EB%8B%88%EB%B2%84%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94%EB%8C%80%ED%91%9C",
+      "order": 94,
+      "avatarUrl": "https://yt3.googleusercontent.com/Wx-UjfTs3WilTY5w57pWhvCcspGfeI7366GC12h2t9y0wvPkvnjVbQjj7CSTbf4Gl6H5D8nvQA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "inno",
+      "name": "김인호의 이노레이블",
+      "handle": "@%EA%B9%80%EC%9D%B8%ED%98%B8-%EC%9D%B4%EB%85%B8%EB%A0%88%EC%9D%B4%EB%B8%94",
+      "order": 95,
+      "avatarUrl": "https://yt3.googleusercontent.com/vC71qfxSLQ5swwSaDbLHBwTbJ_LHBUHYb4XDko2a_FALxPh3YhZVkWoxb3ETUU0CJ6l8tyqF=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "produce",
+      "name": "프로듀스레이블",
+      "handle": "@%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94-vip",
+      "order": 96,
+      "avatarUrl": "https://yt3.googleusercontent.com/DTOWdm-zopmhQPcniA0JXZD2TTrHI9XGv2dZvU7YB40QPllpvE0i-Z8500RR7qmgWgUkFCZL=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
