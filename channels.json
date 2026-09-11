@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09",
-  "totalCount": 96,
+  "updatedAt": "2026-09-11",
+  "totalCount": 98,
   "channels": [
     {
       "id": "ym",
@@ -752,6 +752,20 @@
       "handle": "@%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94-vip",
       "order": 96,
       "avatarUrl": "https://yt3.googleusercontent.com/DTOWdm-zopmhQPcniA0JXZD2TTrHI9XGv2dZvU7YB40QPllpvE0i-Z8500RR7qmgWgUkFCZL=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "summit",
+      "name": "[SoL]써밋오브레전드",
+      "handle": "@%EC%8D%A8%EB%B0%8B%EC%98%A4%EB%B8%8C%EB%A0%88%EC%A0%84%EB%93%9C",
+      "order": 97,
+      "avatarUrl": "https://yt3.googleusercontent.com/CuARAuPiNX7B_fVZsSqXk_XfINV1KIXUN-013x-Y8MAnHydzj3Ne0KXoBOjgxhgLqDhqzbiSjw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "nbanother",
+      "name": "노블레스어나더",
+      "handle": "@%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%EC%96%B4%EB%82%98%EB%8D%94",
+      "order": 98,
+      "avatarUrl": "https://yt3.googleusercontent.com/gs6CdZ0DJ3WwmMsmnKORcvWfJDijFybZo_dGb9hxRPIgHI7X9V-OXwwjDW1CHqyaSkyPM7mUpQ=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
