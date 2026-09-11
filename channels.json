@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11",
-  "totalCount": 98,
+  "updatedAt": "2026-09-12",
+  "totalCount": 95,
   "channels": [
     {
       "id": "ym",
@@ -156,14 +156,6 @@
       "reason": "정상 운영 (HTTP 200 OK)"
     },
     {
-      "id": "channel_21",
-      "name": "청담레이블 화 목 토 MC청아",
-      "handle": "@%EC%B2%AD%EB%8B%B4%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 20,
-      "avatarUrl": "https://yt3.googleusercontent.com/Gtkw1Mr98tmqOuhCknbfixcNq8sEGHNC6rMYnqE6qiNITJOmcopSlGlu2f0njut6wZxaiaIbv6g=s900-c-k-c0x00ffffff-no-rj",
-      "reason": "정상 운영 (HTTP 200 OK)"
-    },
-    {
       "id": "chaschool",
       "name": "차스쿨",
       "handle": "@chaschool",
@@ -225,14 +217,6 @@
       "handle": "@GIL%EB%A0%88%EC%9D%B4%EB%B8%94",
       "order": 28,
       "avatarUrl": "https://yt3.googleusercontent.com/Rs8-4G9YOgb0JF35Y2Vyz9MaPESw87sWn1mJAfeSElktneuJ6etMwH9M1i_hRWoPMsvedcBT1X0=s900-c-k-c0x00ffffff-no-rj",
-      "reason": "정상 운영 (HTTP 200 OK)"
-    },
-    {
-      "id": "channel_30",
-      "name": "보스컴퍼니",
-      "handle": "@%EB%B3%B4%EC%8A%A4%EC%BB%B4%ED%8D%BC%EB%8B%88",
-      "order": 29,
-      "avatarUrl": "https://yt3.googleusercontent.com/XBRWsB4pxnZacQ9vOwT6E8_LnnytV893yAWIrykHza2sjHq_CTAJ0oEE8f7mr85E64ErGewA=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
     {
@@ -377,14 +361,6 @@
       "handle": "@%EB%93%9C%EB%A6%BC%EC%BB%B4%ED%8D%BC%EB%8B%88-dc",
       "order": 47,
       "avatarUrl": "https://yt3.googleusercontent.com/kDTmZPhXRFKc-OaaMqT_1tJThPtvuJhIbLiPrTED40Q9ib40jM9czra7NokhEHvhKMa4bLhVYrY=s900-c-k-c0x00ffffff-no-rj",
-      "reason": "정상 운영 (HTTP 200 OK)"
-    },
-    {
-      "id": "channel_51",
-      "name": "루비레이블",
-      "handle": "@%EB%A3%A8%EB%B9%84%EB%A0%88%EC%9D%B4%EB%B8%94",
-      "order": 48,
-      "avatarUrl": "https://yt3.googleusercontent.com/zJvjND7NKLK4niiZrUrANRdtJNGEB2QxykmYC0Z-_yZuSgTUC1CYO2X8A4GrxfLeEw6fYnH66rE=s900-c-k-c0x00ffffff-no-rj",
       "reason": "정상 운영 (HTTP 200 OK)"
     },
     {
