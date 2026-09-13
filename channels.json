@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-12",
-  "totalCount": 95,
+  "updatedAt": "2026-09-13",
+  "totalCount": 102,
   "channels": [
     {
       "id": "ym",
@@ -742,6 +742,55 @@
       "handle": "@%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%EC%96%B4%EB%82%98%EB%8D%94",
       "order": 98,
       "avatarUrl": "https://yt3.googleusercontent.com/gs6CdZ0DJ3WwmMsmnKORcvWfJDijFybZo_dGb9hxRPIgHI7X9V-OXwwjDW1CHqyaSkyPM7mUpQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "leaders",
+      "name": "리더스레이블",
+      "handle": "@LEADERLABEL",
+      "order": 99,
+      "avatarUrl": "https://yt3.googleusercontent.com/nfM9pLCTkWKyfkXQChIXDXzttK5c4Uv8aDvPR_owczfjDtCUd9LRu2RiAyVNHgjFTwktACXKhg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "chungdam",
+      "name": "더청담",
+      "handle": "@%EB%8D%94%EC%B2%AD%EB%8B%B4%EB%A0%88%EC%9D%B4%EB%B8%94",
+      "order": 100,
+      "avatarUrl": "https://yt3.googleusercontent.com/i2JUM6ybI_uk72gysBPpXmJjy6--cgLBkIH8Bsc2YKdBgqg9FleRIl2JiDQLNzsDav1Ovqw2G6o=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "ruby",
+      "name": "루비레이블_대표소린",
+      "handle": "@%EB%A3%A8%EB%B9%84%EB%A0%88%EC%9D%B4%EB%B8%94_%EB%8C%80%ED%91%9C%EC%86%8C%EB%A6%B0",
+      "order": 101,
+      "avatarUrl": "https://yt3.googleusercontent.com/q4s-QB732Dl7cp11vigV-xZ4UpVfWktZNH8byzYrvUZ_hhcN4naV4oTXrjGP8GqWZlhPEbAH=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "duckja",
+      "name": "리덕자 Duckja",
+      "handle": "@%EB%A6%AC%EB%8D%95%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4",
+      "order": 102,
+      "avatarUrl": "https://yt3.googleusercontent.com/vSoGHd-eBoESh_6-yXSbgfkstA0k7ctP3ShNOzYK8eromKMpEY8042tysY87krakzfzAWhLV=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "nb_hmt",
+      "name": "노블레스 레이블 화목토",
+      "handle": "@%EB%85%B8%EB%B8%94%EB%A0%88%EC%8A%A4%EB%A0%88%EC%9D%B4%EB%B8%94%ED%99%94%EB%AA%A9%ED%86%A0",
+      "order": 103,
+      "avatarUrl": "https://yt3.googleusercontent.com/Vxj6r5Q1XCXA6wPINYbKnLVwZmktSTPlQNtW-72XmOrnjj4D9ouijRN8d9vHCyC-awiMhHhuobg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "aura",
+      "name": "아우라크루",
+      "handle": "@%EC%95%84%EC%9A%B0%EB%9D%BC%ED%81%AC%EB%A3%A82",
+      "order": 104,
+      "avatarUrl": "https://yt3.googleusercontent.com/tGcrSF-aaBuD10YOJ6wnS5DMgQNDI1d0qKjhuHUlXYk5nkCwJdS0ikA0-Lb7tPgMnnbajIVAPQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "marin",
+      "name": "박마린",
+      "handle": "@marin%EB%A7%88%EB%A6%B0-2",
+      "order": 105,
+      "avatarUrl": "https://yt3.googleusercontent.com/xgKOea6PctHvnk8NiPqV2_shieMY2lbutrZhPFGOFJYbH0bCFX99h8tpsiavp9uRjl2AqP-n1A=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
