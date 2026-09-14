@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-13",
-  "totalCount": 102,
+  "updatedAt": "2026-09-14",
+  "totalCount": 107,
   "channels": [
     {
       "id": "ym",
@@ -165,7 +165,7 @@
     },
     {
       "id": "channel_23",
-      "name": "배짱이컴퍼니 라온레이블",
+      "name": "배짱이컴퍼니 다이아레이블",
       "handle": "@%EB%B0%B0%EC%A7%B1%EC%9D%B4%EC%BB%B4%ED%8D%BC%EB%8B%88",
       "order": 22,
       "avatarUrl": "https://yt3.googleusercontent.com/gLFLWT4prTk3X37hEgw26tbdSiNlo-sxD45q_E75sMZcQY6f8_OD-15kI3ATg4g-1dW5LQTqFw=s900-c-k-c0x00ffffff-no-rj",
@@ -791,6 +791,41 @@
       "handle": "@marin%EB%A7%88%EB%A6%B0-2",
       "order": 105,
       "avatarUrl": "https://yt3.googleusercontent.com/xgKOea6PctHvnk8NiPqV2_shieMY2lbutrZhPFGOFJYbH0bCFX99h8tpsiavp9uRjl2AqP-n1A=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "chanu",
+      "name": "힐링 차누",
+      "handle": "@%ED%9E%90%EB%A7%81%EB%AE%A4%EC%A7%81-%EC%B0%A8%EB%88%84",
+      "order": 106,
+      "avatarUrl": "https://yt3.googleusercontent.com/UZFpRSCNAdwhM6Ul9y3uiYMl8QqenTmkeiGfxeKLPUfc8DDGEl_Dj72kiacNWZBqcrFNpu9EWtA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "hmcrew",
+      "name": "HM크루 [혁민]",
+      "handle": "@HM%ED%81%AC%EB%A3%A8",
+      "order": 107,
+      "avatarUrl": "https://yt3.googleusercontent.com/VcK8Ka1bbRwsH75XDdkRqwVArIK6LpeuE725LwxIimiBId6maDo-dXnigYl5KEilkP-_4pJrppo=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "oneshot",
+      "name": "원샷컴퍼니",
+      "handle": "@%EC%9B%90%EC%83%B7%EC%BB%B4%ED%8D%BC%EB%8B%88_v",
+      "order": 108,
+      "avatarUrl": "https://yt3.googleusercontent.com/fxyvmFFSVYpzs5Lio6sGNNovmIKMgpidGnqQ3ZwNSWN_n4oUbZ8erE2H-zf7801DWp4wsDBV=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "nbbeast",
+      "name": "노블레스비스트_대표김누리",
+      "handle": "@%EA%B9%80%EB%88%84%EB%A6%AC%EB%8C%80%ED%91%9C",
+      "order": 109,
+      "avatarUrl": "https://yt3.googleusercontent.com/durs-Ele5-czG6s4YD7m5ihkuWw14rzCvxn-TIL8tp4WrHWA9P6xnhBaaT_sH-MXaJcQjw5n=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "hibeach",
+      "name": "하이비치",
+      "handle": "@%ED%95%98%EC%9D%B4%EB%B9%84%EC%B9%98_Hi",
+      "order": 110,
+      "avatarUrl": "https://yt3.googleusercontent.com/l_zxR3kqfnsHT8GBwkcBQ3XQhMmY8i5avSEw5fSbjNUwLvCrgRikaRS5tu9BOTVDPQXFJ9YwhA=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }
